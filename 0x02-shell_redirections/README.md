@@ -1,1 +1,1 @@
-##Short description of the functions of the following script:
+## Short description of the functions of the following script:
