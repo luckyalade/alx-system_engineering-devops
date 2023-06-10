@@ -15,7 +15,7 @@
 - **The 12-directory_permissions script"** creates a directory called **"my_dir"** with permissions 751 in the stored in working directory.
 - **The 13-change_group script"** writes a script that changes the group owner to **"school"** for the file **"hello"**. Also, the **"hello"** file will be in the working directory.
 - **"The 100-change_owner_and_group script"** writes a script that changes the owner to **"vincent"** and the group owner to **"staff"** for all the files and directories in the working directory.
-- **"The 101-symbolic_link_permissions script" writes a script that changes the owner and the group owner of **"_hello"** to **"vincent"** and **"staff"** respectively, with the **"_hello"** file in the working directory and as a symbolic link.
+- **"The 101-symbolic_link_permissions script"** writes a script that changes the owner and the group owner of **"_hello"** to **"vincent"** and **"staff"** respectively, with the **"_hello"** file in the working directory and as a symbolic link.
 - **"The 102-if_only script"** writes a script that changes the owner of the **"hello"** file to **"betty"** only if it is owned by the user, **"guillaume"**, with the **"_hello"** file in the working directory.
 - **"The 103-Star_Wars script"** writes a script that will play the StarWars IV episode in the terminal,.
 
