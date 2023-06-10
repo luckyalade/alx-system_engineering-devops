@@ -1,2 +1,2 @@
 #!/bin/bash
-gawk 'NR==3' iacta
+heade -3 | tail -1
